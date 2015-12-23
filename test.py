@@ -57,3 +57,6 @@ for i_g_x in x:
 
 a = eval('100==10**2')
 print(a)
+
+b = ['a','b']
+print(b)
